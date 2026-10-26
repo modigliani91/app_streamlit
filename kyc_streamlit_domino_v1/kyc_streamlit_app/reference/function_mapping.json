@@ -1,0 +1,1612 @@
+[
+  {
+    "cell_index": 4,
+    "name": "Config",
+    "module": "notebook_config.py",
+    "ast_identical": true,
+    "ast_sha256": "1161aa8f0c1666902456720028f9fdcaabe81918232b9ae921299d4e1a44bcef"
+  },
+  {
+    "cell_index": 4,
+    "name": "StructuredConfig",
+    "module": "notebook_config.py",
+    "ast_identical": true,
+    "ast_sha256": "057df0f616e480c27fada4285d9033d8dad1a1f5fa0267f0ef76d6138db93ae9"
+  },
+  {
+    "cell_index": 14,
+    "name": "json_safe",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "13d8aa05a39afb1de7a469eccd48b1c4b4726232044fafbe935ac18c28cff5cd"
+  },
+  {
+    "cell_index": 14,
+    "name": "json_text",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "3c890e7d457326c7a7481d7bfa64de82d9a13e0fa26205ba7f9c526059561dbf"
+  },
+  {
+    "cell_index": 14,
+    "name": "sha256_file",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "bd54a54bd758ef507601e704ede67a829ca6bd2287961ac225c812c797bf809f"
+  },
+  {
+    "cell_index": 14,
+    "name": "stable_hash",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "686d9aae9ab044f3595a31d48e6c9fab056037de346c9251bdc796238fd36873"
+  },
+  {
+    "cell_index": 14,
+    "name": "atomic_text",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "8de0392c60ac98c260208ad34dc61f2da36d84a6e1656d763c703d4c8e6af4a4"
+  },
+  {
+    "cell_index": 14,
+    "name": "atomic_json",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "312055a834161bdc53e5270342c7c8c601f5f6cea51bcb6eb6f83337d5a85c29"
+  },
+  {
+    "cell_index": 14,
+    "name": "csv_text",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "cdd8260cfdefa41b34c3ee9fa4ff838c507c1a918ce96f77bbf0fa3d0aac15ae"
+  },
+  {
+    "cell_index": 14,
+    "name": "record_error",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "e0d3cd782986eb8e58c860d03f1cd7a72fc2e62b610f7ce3de9aeaa9f8c7cd1e"
+  },
+  {
+    "cell_index": 16,
+    "name": "to_json_safe",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ac1b606141b5943495cd82fbd7df461b668d8bd5c9e4dfb9fdd9ff6dfc860839"
+  },
+  {
+    "cell_index": 16,
+    "name": "normalize_name",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "71cef534c72b5caa3a4e561f5aa9f34f084adea8d7e9237ee71fb6b7edba9ccc"
+  },
+  {
+    "cell_index": 16,
+    "name": "latin_name_visible",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a979a93f0d48d774f6a7e862449eee9919e5369ecb9387768925de81c9e2c091"
+  },
+  {
+    "cell_index": 16,
+    "name": "normalize_identifier",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "bddda8b2cd65d74514ceda78b6e41a9f3c3d64b18d3f63b43aaa33d74a7bb90d"
+  },
+  {
+    "cell_index": 16,
+    "name": "normalize_account_number",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "360f24964c4c9845576d80d70dc38dceef8051ab96751faf9fb88e9c7a04ba34"
+  },
+  {
+    "cell_index": 16,
+    "name": "parse_date_safe",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "dd4acff3344c70f88ba4f771294003d4911cc794029c179c9eefc831d3ecbb30"
+  },
+  {
+    "cell_index": 16,
+    "name": "normalize_country",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "56bc10af5841b3e032d31a442966d3eb1d87f6c111f3550dcc0dc4c0a357fd67"
+  },
+  {
+    "cell_index": 16,
+    "name": "normalize_field_value",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ef7d5f69adf1f0727e35fff96f0362dfd7c4d8302bf61c71f2dc4e30aa7710d2"
+  },
+  {
+    "cell_index": 16,
+    "name": "safe_customer_filename",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "6fbae41a4b7a627198994ec09adf1f941b4508ce7ea840b09349b4996cc5f87a"
+  },
+  {
+    "cell_index": 16,
+    "name": "customer_json_path",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "14d3548bbc511dadc726e40c88135e89f6312896e6c113db07ffe2f7daf8136e"
+  },
+  {
+    "cell_index": 18,
+    "name": "PersistenceError",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "75290ac5f71f6afea883143b1897242b8505641fd0deb193b6c3b11a5a2e7850"
+  },
+  {
+    "cell_index": 18,
+    "name": "stage_header",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "0bb870d3ff44e8a372cca78e7cb3e7e95d318f7763c7abfd3461fa429463022d"
+  },
+  {
+    "cell_index": 18,
+    "name": "seal_record",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "8378029aa7c7a618bc21ca845e08b1006db38ccc0fdfe601f0caede1bf54f466"
+  },
+  {
+    "cell_index": 18,
+    "name": "read_sealed",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "899d52be428399e771a656d1e059dbef39234f9fce9f649cc6dafdfa582aac2e"
+  },
+  {
+    "cell_index": 18,
+    "name": "persist_sealed",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "3ba0286644cb44ba306ae7976d3502632ef9420655749de067fdd74bc26776e3"
+  },
+  {
+    "cell_index": 18,
+    "name": "customer_folder_name",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "37246ed0249863a9c4b1a76b7ebb1ab49c25ba451d5244a361d7b9e505f390e5"
+  },
+  {
+    "cell_index": 18,
+    "name": "repository_manifest",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "b90dbfda63d243320b3fdc08a6cb7553e06aed4b2822177fb2cf94b182083bab"
+  },
+  {
+    "cell_index": 18,
+    "name": "locate_vision_config",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "01119dac509c55a5cde1d1272f4ce3ba1e399b19d17b8b74b56139f998f1e0bd"
+  },
+  {
+    "cell_index": 18,
+    "name": "inspect_local_repository",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "cf6f53f10fa37e37209d101a27b384bd5145ab92261d884255e76a04b17a4134"
+  },
+  {
+    "cell_index": 18,
+    "name": "select_customers",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "8af25a28a2be724c16ee0e54f8b4aeb671ee12744e4dbed54e9dc47483901cd6"
+  },
+  {
+    "cell_index": 18,
+    "name": "assert_full_population",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "fd54815354294f5dc75dd18a8a9facc4778f65a008361a9a9b23ea335f1b1b52"
+  },
+  {
+    "cell_index": 20,
+    "name": "semantic_field_for_label",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "b51bda38546f097b35e214f821a5784bf8f231af3269d8e1793f65e83ed8b2bf"
+  },
+  {
+    "cell_index": 20,
+    "name": "detect_label_language",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "dce8d551f80baa69eb907a80b4346b4976dbb89d7725bd7b608fc8c6dd3bd85d"
+  },
+  {
+    "cell_index": 20,
+    "name": "detect_writing_type",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ff030fa221d526cbca0d94aaaaa2cfa69244a718438a5afa1721c1829cbacd71"
+  },
+  {
+    "cell_index": 20,
+    "name": "confidence_level",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "fc54f639b53da08f559231c903e1d1e69a89598edc368f6422d4875bb386f370"
+  },
+  {
+    "cell_index": 20,
+    "name": "field_format_valid",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "4f8ab94de5b7f8a66e34321089ac7964864b5c77276d84a196b68d8c13d4ef6a"
+  },
+  {
+    "cell_index": 20,
+    "name": "compute_field_confidence",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c643214351bfdfd93a19e886f5949ed1f00f0f2230ad6968a1830b7e8e02ec3e"
+  },
+  {
+    "cell_index": 20,
+    "name": "determine_field_manual_recheck",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "bf71be9b75ffac13c89b067ce99e9ab2529fb755d5bd8803caeece3c89b66aad"
+  },
+  {
+    "cell_index": 20,
+    "name": "enrich_field",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "eb3d776081586cee75feb2b616793b1d4b9c8532db98c4d95ace08ebafeb0434"
+  },
+  {
+    "cell_index": 20,
+    "name": "iter_document_fields",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "38c9cf88779d01f120fc224cb8f02f024ee0b9658d6769b6b1679d8c3b99aaa4"
+  },
+  {
+    "cell_index": 20,
+    "name": "determine_document_manual_recheck",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "090951b282233d3ca6f114018f287a1bc67605824016fc8e94aeb91788f9fd95"
+  },
+  {
+    "cell_index": 20,
+    "name": "determine_customer_manual_recheck",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c56e4896ef872089562712a71b92e7e3b23f24f2a6a0610e304e4fa616f23630"
+  },
+  {
+    "cell_index": 20,
+    "name": "mark_field_review",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "6324aab73a752b16fc5f9832128d656c969b102b4c48fcaac6ecc595d3b91f0f"
+  },
+  {
+    "cell_index": 22,
+    "name": "normalized_filename",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "105563c1a43f00ba769e026a60b7fe103357da2ddcc2960bf24d8965d9ba160e"
+  },
+  {
+    "cell_index": 22,
+    "name": "logical_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "3b939738c4785f639d6c4539020c5747c15c102a1eb007a2c5793507af27c68f"
+  },
+  {
+    "cell_index": 22,
+    "name": "safe_member_path",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "0625091a3450da301bad97ed2bf036a923c68c635094cf156b199b4db2df3c88"
+  },
+  {
+    "cell_index": 22,
+    "name": "safe_extract_zip",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "4c4c861fdebcbc19cccabf16a416cdf136811c3b6cf138bbfcbd400b27102c79"
+  },
+  {
+    "cell_index": 24,
+    "name": "build_inventory",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "75c18b9de93e7bc6e43b89c9e9625aab3a8c754c2805d545f9347559b871eb47"
+  },
+  {
+    "cell_index": 24,
+    "name": "duplicate_sort_key",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "5200917a635f086c55dc701e8a4af7a8afded16b4efa0e979913aa0051e3ad91"
+  },
+  {
+    "cell_index": 24,
+    "name": "resolve_documents",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "36f225d72673c4535e0d2e738ebdfc2fbfee4f7e6793281ce52f7b7d9f479d43"
+  },
+  {
+    "cell_index": 26,
+    "name": "discover_all_customers",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "934fdfa701876e326c96427b878c17ff69405fd4d3f042d62c5b3c89dabc7bcb"
+  },
+  {
+    "cell_index": 26,
+    "name": "directory_manifest",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c02c9b3cfb1d0165f3637907eea32f1b368eaf95da8ea29e45cd95ff5e43295f"
+  },
+  {
+    "cell_index": 26,
+    "name": "prepare_inventory",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ddd6210b53dca8aecd22519b2f9f1dfaede8ba99b7a55a826699640cebd76b3f"
+  },
+  {
+    "cell_index": 28,
+    "name": "resize_image",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "753625d64bb5ae4b242a6b24269bece98e20ec5851ec4d300740170f859f543b"
+  },
+  {
+    "cell_index": 28,
+    "name": "white_ratio",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "6fd56b484e3b12f8d56ab6c3e6d746f61e11d5abaac4cb278f16b2aa13bc7793"
+  },
+  {
+    "cell_index": 28,
+    "name": "image_statistics",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "84baf28d38dfb58342d0550e836a9fac76782ec84eefeca639047d0809c1edb7"
+  },
+  {
+    "cell_index": 28,
+    "name": "is_blank",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ffe38bc5cce7ec8f8c652ba45a2a386fe7c4b0ffc7c9d0017f8b4402171e85df"
+  },
+  {
+    "cell_index": 28,
+    "name": "render_page_uncached",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "cef801a81f48711cb455f73b6dfe90a40573f15ee6be0fdca960dbccb93709ac"
+  },
+  {
+    "cell_index": 28,
+    "name": "conservative_crop",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "341ca6c6424fa781e8277caaa93de5a84272c2c4229e96b7ea89123c47729a5f"
+  },
+  {
+    "cell_index": 28,
+    "name": "conservative_deskew",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "179f2716260c1c7db6784fee6a12a1b715901b9b8e39c99ec186af6d591c9168"
+  },
+  {
+    "cell_index": 28,
+    "name": "prepare_image",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "21fe229731a5b4db6c2a42dd9bbd3cb6d4f78220978cc624b3b1814a6dab03e2"
+  },
+  {
+    "cell_index": 28,
+    "name": "save_page_images",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "92f386053d1c4c70e4d9c9a347cb87916d565fac616cbb2d34df3c128e479e2e"
+  },
+  {
+    "cell_index": 28,
+    "name": "render_page",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "abba1eff4dc27af1d4f01a058a047afcaaddbe46048aee2377e554411bf12245"
+  },
+  {
+    "cell_index": 32,
+    "name": "make_messages",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "29a9cb48376200e87f4002b0369fc4d69608acebcd72d01ecd39aa7224cbcf31"
+  },
+  {
+    "cell_index": 32,
+    "name": "apply_template",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "e95c8ca9896c97287dab6ee2dcb09a92a97d15afc1405878b8f231acea89b33b"
+  },
+  {
+    "cell_index": 32,
+    "name": "inspect_template",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c4f2f6450fecef8b81c9afd7b33c135f2b2303fd1fefcc52d4b57d61caa351e5"
+  },
+  {
+    "cell_index": 34,
+    "name": "model_diagnostics",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "59e04d5f31cb6316141c00cea35c5c42b03518ea8f87943a2e8d3ff3f61f84d4"
+  },
+  {
+    "cell_index": 34,
+    "name": "cuda_sync",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "37dabce8b0963f8991775ee4c10cfc4e7710b5d42abc4fa896a05c8a5520bcc0"
+  },
+  {
+    "cell_index": 34,
+    "name": "gpu_memory",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "5abefd9ecf81c9486bbd5984fd6f7bb0dd2460d4059e0ed219de908147f88374"
+  },
+  {
+    "cell_index": 34,
+    "name": "cleanup_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "fd5ff09a0fb9ad72df35c374c8471d77868a59fb6ca3aefb741cc5b0e97a135c"
+  },
+  {
+    "cell_index": 34,
+    "name": "recover_cuda_context",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "7c6855001a3c8bfb1d7cd60a731b51f4795e16540c6a0d777391f3aa1833d6da"
+  },
+  {
+    "cell_index": 36,
+    "name": "ensure_model_loaded",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "46f2bcad94cc7c7d53cf2de5a901d83f7eddfccdafb1dfb480058f9173e07549"
+  },
+  {
+    "cell_index": 38,
+    "name": "looks_like_mrz",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "0a7a0eed4fda6d5674481895583825f516a73b6ede9127e81b641ab847e8934e"
+  },
+  {
+    "cell_index": 38,
+    "name": "detect_degenerate_output",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "62e079a2a74d0b86063cd28ccee79df556e7b211b33ece19ad8d1a3ba9b950b5"
+  },
+  {
+    "cell_index": 38,
+    "name": "validate_transcription",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ac00458420cd0059bb2edb6c462b5a3b0d07640d56d2b8997df8186433cf33c7"
+  },
+  {
+    "cell_index": 38,
+    "name": "DiagnosticStop",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "e5df2f4458d3e77b739fe968034992f6c63e3bfade8d6b033e7b81c78374787a"
+  },
+  {
+    "cell_index": 40,
+    "name": "BudgetExceeded",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "79e22c3f60bcbb5e0bd3f1fc338b7b91001b6d2cb24676e8fc86a9ff9f71a69f"
+  },
+  {
+    "cell_index": 40,
+    "name": "FatalCudaError",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "6562a75242762cb165657653fede77feb0fa7079a27b8ddef5b4ee49d10a4c87"
+  },
+  {
+    "cell_index": 40,
+    "name": "BenchmarkGateError",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c14412ab1228f3ede63afce8003f6514909f21775c4851ef1bc4008deaa770ce"
+  },
+  {
+    "cell_index": 40,
+    "name": "SourceChangedError",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "5ab16aa4f83f24c8e0d4a765d93bf8a190b552c5e7970daf742ab4ad4df3f1e7"
+  },
+  {
+    "cell_index": 40,
+    "name": "CallBudget",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "84d51eceef949007062c4f7b636696608eaec54a7288d49f904c8d9bbb236de5"
+  },
+  {
+    "cell_index": 40,
+    "name": "FirstStepLogitsAudit",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "0dbd307b0e1bb1821446e44e8ecfb90ad55ecc79fe4dc22038e2494ce2afcfda"
+  },
+  {
+    "cell_index": 40,
+    "name": "infer_image",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "257362b5c7ab2b6368b1117b591a00c7b2db3aa8da417611bd4a2ce40f83bf1e"
+  },
+  {
+    "cell_index": 40,
+    "name": "run_attempt",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "2045ee64b2483f446e6f6ea1c5a8c5a700027901cdba4880482127a4ab78d643"
+  },
+  {
+    "cell_index": 42,
+    "name": "select_attempt",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c6971cf8a21dec4e0ccef725c25bbf0ff08a353c41af9566d77408f6d8b81bc5"
+  },
+  {
+    "cell_index": 42,
+    "name": "hd_is_appropriate",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "e6773c04debbaa095c0200f430802d2d84f48bc7f9a5b0506796a55dbbe8c7a7"
+  },
+  {
+    "cell_index": 42,
+    "name": "stage_cache_path",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "71f75f6f9a1f2c1559a3ee00d7b6b29690c92401593fa9c8d85af704c65dc2d8"
+  },
+  {
+    "cell_index": 42,
+    "name": "load_stage_cache",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c784790baa2f3a2ca9c42ddc1a3426c968b9a47fe3583e76877aa7c88e3f0a2b"
+  },
+  {
+    "cell_index": 42,
+    "name": "save_stage_cache",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "727a9c66fc845358e67dca3ddb80400aa5682a5f109e20f1a130fc71bb40475f"
+  },
+  {
+    "cell_index": 42,
+    "name": "remember_attempt",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "2ac461b6d15eb05645960647e051210333d6935ffd5e993ad93d56343870f3e5"
+  },
+  {
+    "cell_index": 42,
+    "name": "source_page_identity",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "26cc9203537c4c20c4e858cb20e42c2e66aef11453e06001921b5f51728531c9"
+  },
+  {
+    "cell_index": 42,
+    "name": "raw_page_key",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ac28961cc4d52ae96118c22aaaf5b1c6af980051eedb6b375e36cf0ba29d2b6b"
+  },
+  {
+    "cell_index": 42,
+    "name": "raw_usable",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "d2abc060ea3bd5229cb28fb6f724c696b380949d183040f6904bd3d58a6ad60d"
+  },
+  {
+    "cell_index": 42,
+    "name": "raw_for_page",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "3e9f09846f9f9663ee92680999c3b982ff3fd520837575db1ca4f7192971406f"
+  },
+  {
+    "cell_index": 42,
+    "name": "raw_document_path",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "91b8708dad46e2645dfbff7595e691d57071f21270288c82f714e4b7ed0bee9e"
+  },
+  {
+    "cell_index": 42,
+    "name": "raw_selection_identity",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "1b8224206bead62463585c2f8047f1996f8e5db7fce1c0cbd414d273f679971b"
+  },
+  {
+    "cell_index": 42,
+    "name": "raw_document_valid",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "000ab0c2dc5c3d990fb5be4752dd17f1cbfaed35395cd127dfc50e3add9e034d"
+  },
+  {
+    "cell_index": 42,
+    "name": "write_raw_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "af4234950a49ff51ac0d4d9c93801e47fd7d5e994c96705fa39103b801c15d51"
+  },
+  {
+    "cell_index": 42,
+    "name": "read_raw_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "2ed0b95b58c8878a6d5b92a36ea4ea84a8a9c7e043384b8bea27acc1c8354dd2"
+  },
+  {
+    "cell_index": 42,
+    "name": "load_raw_model_info",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "2f6eb2eb0adb59895393182341fc612c98591972f36f46d8ecb269c9b269a335"
+  },
+  {
+    "cell_index": 42,
+    "name": "iter_raw_documents",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "6067a06be82aef295f8d7aac4ee7a8ade39411232b5e0f244e628a2c9b0a2153"
+  },
+  {
+    "cell_index": 42,
+    "name": "export_raw_dataset",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "635642f98c91f7bd5a24593f3f0a0324eb2612d1891e36195e5cdccf19b8ff9a"
+  },
+  {
+    "cell_index": 42,
+    "name": "export_raw_performance",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ce76aa84d355aae485c9b11825829551e5a8b86d512197b6dc80e50e55350782"
+  },
+  {
+    "cell_index": 44,
+    "name": "run_raw_ocr_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a62c2e15c718c533589cbe4ce81977e953a4bfec8a48393ba7faab88ef06b2e2"
+  },
+  {
+    "cell_index": 44,
+    "name": "raw_coverage",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "fc76013ec31bf5247cb344755764259ab6c39a2f9fbcc2e05a1e5c7ea27db71c"
+  },
+  {
+    "cell_index": 44,
+    "name": "assert_raw_dataset_ready",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "73c013a282c600b5af50e30d0b07d9898736e03fe7431b075d51a6a88f2c7ede"
+  },
+  {
+    "cell_index": 44,
+    "name": "process_raw_dataset",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "76e4ee1a99047bd62055223f321c7f281e4ce0487e3b5715f35ed001aa350122"
+  },
+  {
+    "cell_index": 46,
+    "name": "run_raw_preflight",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "4946ae749b4ca3a2ff2b160c566ead555e2724d95ea43f3f10bca713107c0b46"
+  },
+  {
+    "cell_index": 51,
+    "name": "blank_visual",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "34006f3b56633786d07b0b53cc272b91c5a87147fe1d5f2fd8061341d83b50b3"
+  },
+  {
+    "cell_index": 51,
+    "name": "missing_evidence",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ecac6d6bbf2f81e6c56647569627d3b3d34484d8e63de4f38db618f85548552c"
+  },
+  {
+    "cell_index": 51,
+    "name": "empty_page_evidence",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "8a410447272a930652819321c9bbb8ddb2f0a7598e9ab8f99a4cafd7f1d191bc"
+  },
+  {
+    "cell_index": 51,
+    "name": "evidence_schema_example",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "02f6c2b26478ddc231a56b63c67998871bfcf599bb910bad148418a7d782cb3a"
+  },
+  {
+    "cell_index": 51,
+    "name": "structured_prompt",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "d0d53afa2338e9298c88518192fbce8cf967bf9dfb3ddab13dcf6c18a81d8f3b"
+  },
+  {
+    "cell_index": 51,
+    "name": "strict_json_response",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "9af4d264d63ee1758711ac08dd1b1f572d185ece2b62f46c4a78f10c60d858af"
+  },
+  {
+    "cell_index": 51,
+    "name": "require_keys",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c66ee3e5df67d219b402311ea43aa59f7af97fb6bb29c6ed0008ba67dbe85656"
+  },
+  {
+    "cell_index": 51,
+    "name": "validate_page_schema",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c6cf6a68ad033403a73ca752695db69d1cc0255ebe47a9c6cd18f5ecfa9fd6bf"
+  },
+  {
+    "cell_index": 51,
+    "name": "literal_contains",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "e8948e1d765792a3de9743e3b6a6258231f900f70dd9b133e0a0d6dbdf0fd32d"
+  },
+  {
+    "cell_index": 51,
+    "name": "evidence_allowed",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a7ca3957057f73be482c912718bfeae6a56ed37a7def573603c9efc1677b8569"
+  },
+  {
+    "cell_index": 51,
+    "name": "ground_page_evidence",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c44d4b636a919ff8af5c0ebcfc05a2e111472fe6651245b275283211faa31b47"
+  },
+  {
+    "cell_index": 53,
+    "name": "semantic_anchor",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "e929f3ceff92097c739e34f98240aac40f3c14b8823a95f0a9dcf90bd2f6ba0a"
+  },
+  {
+    "cell_index": 53,
+    "name": "find_labeled_values",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "acef96b87e35f132e24bed85b1ffc2dc5cb750634edbd592bbef18dacb679474"
+  },
+  {
+    "cell_index": 53,
+    "name": "recognize_from_raw",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "2b10da269be94ba6a33d775f57fee7f5ad538f0857924ca6f1d089c0c0d00ba3"
+  },
+  {
+    "cell_index": 53,
+    "name": "rule_fields",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "21ef50e2647dbeb1d06e7c921624b205c88abe718170e6e6610d26e2cc168e9b"
+  },
+  {
+    "cell_index": 53,
+    "name": "deterministic_page_extraction",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "b2061da6a85059204ba6b06cc5205c9b792626f99fe5de7e81a3bb622d14aabb"
+  },
+  {
+    "cell_index": 53,
+    "name": "structured_text_prompt",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "51b0948ec2d8fb4ce21baa23994775139d96ad20136e6cbc9159697bd9691e78"
+  },
+  {
+    "cell_index": 55,
+    "name": "detect_mrz_from_raw",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a3f2de97d09ad20c8abe3ad9c256f06451db6dea98d83ca8b728b274e24cdb3a"
+  },
+  {
+    "cell_index": 55,
+    "name": "detect_identity_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "622b3d8158ea6fe4288fcfc4516f3fc50f4a28ac2bb60fd8c04951b59293d481"
+  },
+  {
+    "cell_index": 55,
+    "name": "merge_identity_context",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "f9c5ebc9e7d8f136390ab63286c0b57e513850fe22373c1143e30e14848971a3"
+  },
+  {
+    "cell_index": 55,
+    "name": "identity_numbered_anchors",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "190ecbeda33a572d94899ebf365bdc590947281b36add37ce11e18fbcbd28f6c"
+  },
+  {
+    "cell_index": 55,
+    "name": "bottom_name_candidates",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a5a7531e31e9b9ad1091f4a36f1f1de74a65e2f817225e95ce28b6b3d34052e4"
+  },
+  {
+    "cell_index": 55,
+    "name": "apply_detection_to_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "bc99f9d0b94b6d6a2acf4f0ba240e397ba0c140a9514ec1197ade2c8699f2ab7"
+  },
+  {
+    "cell_index": 55,
+    "name": "semantic_identity_type",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "9be890d68783ceff4e67a46e676b68f5315150172136c664bcbabbe3d1e6a362"
+  },
+  {
+    "cell_index": 57,
+    "name": "parse_structured_response",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "1abfc4b992bdbedbb70ff7ea533d327c04beedadbd60170b6f7b3af0cc501920"
+  },
+  {
+    "cell_index": 57,
+    "name": "ocr_context",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "8e66cfe9d56b14b769b6037cea6ba76deccdd389d27176967573d0515f9da88d"
+  },
+  {
+    "cell_index": 57,
+    "name": "adapt_extraction_response",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "e4abaf0f146dede839391676cb82355a7cd68dafb5e63eb116d9a6e60ca98ac9"
+  },
+  {
+    "cell_index": 57,
+    "name": "anchored_field_supported",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "2df0ca0b95c6445d3c9c9971bcf1e4cee12a0a75cdebad4bffbfa69bec1b57c6"
+  },
+  {
+    "cell_index": 57,
+    "name": "unresolved_fields",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "d17bf1d50433abb5ee7da962500eae64f1aa5f6127eac8821ae9e14270a33dac"
+  },
+  {
+    "cell_index": 57,
+    "name": "merge_page_evidence",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "9ba165f76beb7fed3fb869fc93963a35c54005dbb3121ce7449c9f31e1b45b81"
+  },
+  {
+    "cell_index": 59,
+    "name": "unavailable_model_confidence",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "128fa0b7df34370cddfbcef6f239f8a03aad86fac8ef2d0b0f391b43290e212d"
+  },
+  {
+    "cell_index": 59,
+    "name": "json_string_spans",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ec035ef32368c51aaa89db2bfe9ca438cc70513f015ebcf3a9801b12dacfd887"
+  },
+  {
+    "cell_index": 59,
+    "name": "reduce_structured_scores",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "520f7bd8a6de3bede99a0542b5c01f51ad4f3810e13be2f85e8492eb37f925ad"
+  },
+  {
+    "cell_index": 59,
+    "name": "align_field_probabilities",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "e1480a6af8b2fbb80ac7427d149e89fc7f65d7906b7941a974b3192d87ecc9a6"
+  },
+  {
+    "cell_index": 59,
+    "name": "attach_model_probabilities",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "eef25ea5d3ffa1e9e3f372662790dd9d84676c8674d4ed5e40a6549084796178"
+  },
+  {
+    "cell_index": 59,
+    "name": "field_is_reliable",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "1d3832507d80908a85b872b257bd62928bf6ee7855aaa485cfe6373ec31f7aea"
+  },
+  {
+    "cell_index": 61,
+    "name": "infer_text",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a30c6e98a371ca3e36b9a115ff9e0bd2305c60488c842808e237c8a03a79085b"
+  },
+  {
+    "cell_index": 63,
+    "name": "infer_structured_image",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a19249afd26f8f70ed9caa6af63d0490cba3e856bcce7a3c92e45a544de8b402"
+  },
+  {
+    "cell_index": 65,
+    "name": "structured_attempt",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "16719d1aa346135aad142cfaf94781463a74af30012f3784910861d8ef428800"
+  },
+  {
+    "cell_index": 67,
+    "name": "render_structured_source",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "e25577ce7d544effa127d9f8a3d694b62829b2235c4078ffbcece8c6cd3aac19"
+  },
+  {
+    "cell_index": 67,
+    "name": "structured_text_attempt",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "5b1624bfb3014b866dce1618235dfadbbda1c18d5d91a034718c9cd890cf937f"
+  },
+  {
+    "cell_index": 67,
+    "name": "structured_for_page",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "2ea092eac5ac7ba1454e95810818a0649eb6ced0653b536a2c11d921ba8d7095"
+  },
+  {
+    "cell_index": 67,
+    "name": "document_text_attempt",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "f48ab961b39d58f3282e87813718e75bacd17c17aba53cf88a1655f6391b555d"
+  },
+  {
+    "cell_index": 69,
+    "name": "match_name",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "5910de5234d343d76509b44337c04624a2bdae3b08aa813c94868a6de098f9b0"
+  },
+  {
+    "cell_index": 69,
+    "name": "extraction_quality",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "4f1c863b77c680150327d96ba6772178289879d04d6a365519e55639e11bc245"
+  },
+  {
+    "cell_index": 69,
+    "name": "confidence_aware_comparison",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "2e6ff6530c2444a87825a8e2af8e065147256a52e3e0409ead595f0e79eebea7"
+  },
+  {
+    "cell_index": 69,
+    "name": "match_scalar",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "bcd3b624dec81eb1ba9b32770af08c8a1f27c93a6f18612005393522ebed1386"
+  },
+  {
+    "cell_index": 69,
+    "name": "match_date",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "dffb913a4daf23d33cac72dc95d1bb832f153b47ea46cab536632e9a3f2ee37e"
+  },
+  {
+    "cell_index": 69,
+    "name": "match_account_number",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "276a70489af7d21598624ae21945fd678471674eeae1e339f6e114c165634e58"
+  },
+  {
+    "cell_index": 69,
+    "name": "compare_document_names",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "910928d52cf886582a97e1749ebd41d6a46b785dd86816d4b8393c81c072821a"
+  },
+  {
+    "cell_index": 69,
+    "name": "run_cross_document_checks",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a642bc0a3d8f9b0a35117bd79d1a17d4f1e312337abfe5406a7937b3ce7176b5"
+  },
+  {
+    "cell_index": 69,
+    "name": "match_customer_to_reference",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "0105bdfbd9cf23b0473172df5ef1643e69b78691cf8f938c54dc899ae4dbc2ae"
+  },
+  {
+    "cell_index": 69,
+    "name": "propagate_comparison_review",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "acd67b79ae030b0b61ad195de66283c53b85dd506b3170b43aecd987c4efcc57"
+  },
+  {
+    "cell_index": 69,
+    "name": "consolidate_identity",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ba597df7f592bd70eabca9f00744750f42e613f25ec6bf4d0a75cc5961b7e31b"
+  },
+  {
+    "cell_index": 69,
+    "name": "build_anomalies",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "e8e83e4af26d90a37081d8fb3f478327f10d6727adcb8a3ad1fbba753199f436"
+  },
+  {
+    "cell_index": 71,
+    "name": "anomaly",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "23b98e8b29d05274a35d8a6c42eaccb0db08be8afdb4ac6e6a03bec0285ac391"
+  },
+  {
+    "cell_index": 71,
+    "name": "header_matches",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ac6e9295de5e74d35d651f451b13fb4177ffd87451cf397432ea7601a2474bd4"
+  },
+  {
+    "cell_index": 71,
+    "name": "field_value",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "533556dc95108128891b47465ffa35a0fa8d8f0b15a6e47b22c7573491f8f39c"
+  },
+  {
+    "cell_index": 71,
+    "name": "required_field_anomalies",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "5dae8dba567688219d45dbeae5f9ccaf1b52d57ddfbb00db29cf488331f86919"
+  },
+  {
+    "cell_index": 71,
+    "name": "finalize_document_validation",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "4559b7a8932e8ab68161d35bccf9567712023d58e7b5d72feba485a65bdff4b8"
+  },
+  {
+    "cell_index": 71,
+    "name": "validate_identity",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "997d97a8135c3140d614db4ebc8868ce9ee2a37fa209e1d25a642f04f739319c"
+  },
+  {
+    "cell_index": 71,
+    "name": "validate_other_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "524f5abc044d07457adc95f38a439eb3198156ed760bd463b0179b55c241eded"
+  },
+  {
+    "cell_index": 71,
+    "name": "usable_names",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "14cf28a8cf77851a30734b7dc76716c2e966790307aa7b19a042ad682140b7c3"
+  },
+  {
+    "cell_index": 71,
+    "name": "overall_status",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a0e1a6fb1809fbfd1b12d69703a83253d77c50bc311eab35a46be8498d0ace01"
+  },
+  {
+    "cell_index": 73,
+    "name": "merge_field",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "9c9221ccd4602645e7afe7238537539f8cfd82c547890a5d6e70199ed4f9203d"
+  },
+  {
+    "cell_index": 73,
+    "name": "aggregate_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "770bbc6327e83eaaf7300d247580b20cd862bf14d6839edcd3dfb99177ff986c"
+  },
+  {
+    "cell_index": 73,
+    "name": "enrich_mrz",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "5a5878e422ff4fb26e84e57a7eedb06e340629c32b1328903725a90f1a0bc5f4"
+  },
+  {
+    "cell_index": 73,
+    "name": "document_quality",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "13514d60be69982a0490648ef682c277826c032cafad55415bcc6307f0de8043"
+  },
+  {
+    "cell_index": 75,
+    "name": "document_json_path",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "4614dda5b684eea4f869f19484705d7620bd28af0519b9595d4b6f34c81d9f6b"
+  },
+  {
+    "cell_index": 75,
+    "name": "validate_document_json",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "3be908c44c9314988af621ed7f942c75860cba9624a652fb92d7dd3d2bca7c96"
+  },
+  {
+    "cell_index": 75,
+    "name": "write_json_atomic",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a552c39df7145d6f210a5ebb40467d36c4106bc1eccea5b57618d1cc617f544c"
+  },
+  {
+    "cell_index": 75,
+    "name": "write_document_json_atomic",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "177d46ef32875b36da0fc24f3697f21a4ca423f67bfc008f6a23e9644467b128"
+  },
+  {
+    "cell_index": 75,
+    "name": "read_document_json",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "4c9fe0bf6b0d79bb7cee6c0c25db0071de7e3eb301296ae38d0b249b5bc78f19"
+  },
+  {
+    "cell_index": 75,
+    "name": "build_document_result",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "70f8385b4f3c4b021023f68815be91bc3fedf2d9e93963ea391c902103099db0"
+  },
+  {
+    "cell_index": 77,
+    "name": "initialize_structure_stage",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "0f1d92145cad906be9e44fd5290b8c3f9668bec561821a9baa558535dd432d73"
+  },
+  {
+    "cell_index": 77,
+    "name": "extract_document_from_saved_raw",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "2b6d32d976d283de42186bdd9f431ab37b16959a591f1fccfca0005ba4ab198e"
+  },
+  {
+    "cell_index": 77,
+    "name": "process_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "f1b3a39bdc6ff787e4a43acc867c211cf5675d459849f93ee2b072c1a1f20519"
+  },
+  {
+    "cell_index": 77,
+    "name": "process_structured_customer",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "4466ddeb61f2f8ac794cfd485cb626898e7676747321a00dc55662e4ddca0144"
+  },
+  {
+    "cell_index": 77,
+    "name": "process_structured_dataset",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "4aed33e1e3385dbdfcc5d7f12ae4b73c4150ec2f584d5348a746d0478ce8d25b"
+  },
+  {
+    "cell_index": 82,
+    "name": "load_reference_csv",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "803ff5ffad3ae86084c98b90c6add4ea89b72e396d78e0b9234d4bbb12ce3da0"
+  },
+  {
+    "cell_index": 82,
+    "name": "reference_for_customer",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "515a819f8e8e3628a17998879d0251fda9abcef22d4bca96c2e7897f4261e15c"
+  },
+  {
+    "cell_index": 85,
+    "name": "normalize_name_for_similarity",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "2360d06af76ec16493b6d18b472081b8d5b3a83bf065ffbe61fdf17d2b0f7c21"
+  },
+  {
+    "cell_index": 85,
+    "name": "levenshtein_distance",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "6b9040bda2c47f3721dc32e8943a2c0167bc44f0ed8ef3436742d334fa00fbda"
+  },
+  {
+    "cell_index": 85,
+    "name": "normalized_levenshtein_similarity",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "5e0bc7a2556118a896c5b34c7efa348cfa48afd5f6d09436a60f02f92af571b4"
+  },
+  {
+    "cell_index": 85,
+    "name": "token_order_name_similarity",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ac708021962d9d47c732229dc56a91491e90e9bf60f35335edcd2d52248206ac"
+  },
+  {
+    "cell_index": 85,
+    "name": "similarity_meets_threshold",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "8b4e134d006fdafd9169d1c8b56f7f3965020f36efb81125fad84409e7ce2484"
+  },
+  {
+    "cell_index": 85,
+    "name": "compute_proper_name_similarity",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "ea97b3c3e78871109b871a2f9dffaff3990d3295610329c6161835d9a062e835"
+  },
+  {
+    "cell_index": 85,
+    "name": "match_handwritten_name_to_reference",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "53e8f16b186b43b005acb8486f851341bdfaa485686f7d09d73769798e188cc1"
+  },
+  {
+    "cell_index": 85,
+    "name": "match_fatca_name_to_reference",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "603f1d2eacf51821c96fc0d957bc3a468693e18551130b0e46661540d272db89"
+  },
+  {
+    "cell_index": 85,
+    "name": "match_signature_name_to_reference",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "95239c55df5f671eeafeccb17f8963a38437973c96ad024c328e7c63664b9d21"
+  },
+  {
+    "cell_index": 85,
+    "name": "name_conformity_reason",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "5a72c1cdcd417839725a56b794f033082d3c54bd3f803d01ac70eb5f6e4eb003"
+  },
+  {
+    "cell_index": 85,
+    "name": "enrich_document_name_matching",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "3717687dc59d28a95bab197faa82379cf20f545cc36fc423518dbc3c067af29d"
+  },
+  {
+    "cell_index": 86,
+    "name": "parse_reference_date",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "f031e934b9e9b4ab44762a413b9c2af5b44651787f8f813b2d2b946cff2b8712"
+  },
+  {
+    "cell_index": 86,
+    "name": "comparable_name",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "fd51b8d52933270acce0383c1266fdd39011fe2a495fb18773b36f8dcfd39c1e"
+  },
+  {
+    "cell_index": 86,
+    "name": "compare_reference_field",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "26708e9102e66a410ea9541f547cce15fba5740b285bc71b8e8d8624ffbe44eb"
+  },
+  {
+    "cell_index": 86,
+    "name": "reduce_database_comparisons",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "d0ae342f3acdbf75211d3f8319b26c0c5a3ff6517010ed09fe7b95ce4a532df3"
+  },
+  {
+    "cell_index": 86,
+    "name": "match_document",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "70844ce0bdafe0635f2b199616900c17bf53ab157cf5afe9d241900cc5041cff"
+  },
+  {
+    "cell_index": 86,
+    "name": "aggregate_family",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "6cc6522b08f2f9f2d8fda77da998eaf993f91a89aac7c2c608c2006ec58949af"
+  },
+  {
+    "cell_index": 86,
+    "name": "customer_database_status",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "5497827259f851007f6090066dc9aa84ba425c918aa2c451395aa8f4ca1fe851"
+  },
+  {
+    "cell_index": 86,
+    "name": "cross_instance_names",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "09072162d4911c63d09c119433a1b3038fee0898ee34805158a075d781e2bea6"
+  },
+  {
+    "cell_index": 86,
+    "name": "matching_fingerprint",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "f99e6b374087b7fe623829bb72ea644fed06c434817969ea6286f8aa197d1588"
+  },
+  {
+    "cell_index": 89,
+    "name": "_baseline_match_document_v1",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "a2f5138b7ab9fc0bf284ecb378cb2195d26c8d68d9cc6f3625439e99f135b980"
+  },
+  {
+    "cell_index": 89,
+    "name": "run_name_similarity_tests",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "3bb6a3991ed1e9437be501e378f3c4417cfbb88e50c3f5366cf9d6227a0e700d"
+  },
+  {
+    "cell_index": 89,
+    "name": "verify_saved_json_matching_regression",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "3e9abf659fdedc8e6a0b0c0e0c90f6f8bbf65b778eae3a86ce95e594ac7d970f"
+  },
+  {
+    "cell_index": 90,
+    "name": "customer_snapshot_from_documents",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "730faedda28efbb7351a7acb20cb368dbf7ddf17733b6a0b15c256be412849d4"
+  },
+  {
+    "cell_index": 90,
+    "name": "read_customer_result",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "235c1d7b3a9ca1b6d3f845fd44ae05ccadbf772c1a3b7b219808c62314c79482"
+  },
+  {
+    "cell_index": 90,
+    "name": "process_customer",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "7fd719b03e9bbd909351ce00f42b4a1dee5f5e5e430f4d0f6eb9ac6d97de290c"
+  },
+  {
+    "cell_index": 90,
+    "name": "process_all_customers",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "34b23fc4ef7c4da175fa19fd1a0ce8b0a92e7b3071af00d9fa96120395b23521"
+  },
+  {
+    "cell_index": 90,
+    "name": "recompute_matching_from_existing_json",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "d48ebb18de7e67d75c60fa1ff83639838a81a2d7123a81186da8e76a85ac29ab"
+  },
+  {
+    "cell_index": 92,
+    "name": "excel_safe_value",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "9faca67de54b87b28d54471694eacff5676360b33bb17b7e85554906b22b524c"
+  },
+  {
+    "cell_index": 92,
+    "name": "write_report_sheet",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "631a64c3a101a2b2a80447d1787126b8d1384e11000b3abeeacf12f670cc3656"
+  },
+  {
+    "cell_index": 95,
+    "name": "name_comparisons_for_report",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c3dc80bef3135851e11e4b23ce6ff0141cf45464586d822b39215d9c795ef8eb"
+  },
+  {
+    "cell_index": 95,
+    "name": "name_comparison_for_report_field",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "9af17e6b80d2b459182e7da8e4dd6b028d376a5d4191dfd7550c1e08503fe9b9"
+  },
+  {
+    "cell_index": 95,
+    "name": "name_similarity_report_columns",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "4f622dd78beb8512e59224ede340b72725a4eab2183573428bfb414c5bd9d72b"
+  },
+  {
+    "cell_index": 95,
+    "name": "name_similarity_summary",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "75f70be39c35994b39aedaa27d89f9ef8c47b54ce189118b338a80cdf5768c15"
+  },
+  {
+    "cell_index": 96,
+    "name": "iter_current_documents",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "6281339a459c7f4d4aab601aedc86ba259561566df2ea43f780cce47494921cd"
+  },
+  {
+    "cell_index": 96,
+    "name": "coverage_fields",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "6047df135eb22d928f0368b3d1d2c23f09fee20eb4b9a1d129c8cb3e47219372"
+  },
+  {
+    "cell_index": 96,
+    "name": "build_coverage",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "06b7c1b4b757c08047c81875fe1a37c1a41a0fa02d0786f4cd71eb8013dc0d69"
+  },
+  {
+    "cell_index": 96,
+    "name": "report_rows",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "c8e1fb5b12e9a48ab46b7eadbf9f0bd0d87ac97c98b198b4cbdea7eb6d116ae2"
+  },
+  {
+    "cell_index": 96,
+    "name": "export_customer_jsonl",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "20743850e18a50c2843bbd3b06644710aea7dbb66ff62f36645a5b576a8e0137"
+  },
+  {
+    "cell_index": 96,
+    "name": "export_reports",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "b74c55fa05d490b98d49d2fcb9815785faa257b72e97f94896deec94db618e54"
+  },
+  {
+    "cell_index": 96,
+    "name": "final_audit",
+    "module": "validated_core.py",
+    "ast_identical": true,
+    "ast_sha256": "9f63e2fce2a8bca0dc6a816b75959af8643826596516acdaf25004f954516df7"
+  }
+]

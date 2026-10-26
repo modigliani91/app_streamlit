@@ -1,0 +1,16 @@
+# Inventaire des minima indicatifs du notebook; NE PAS utiliser pip install -r ici.
+# Conserver les versions exactes validées dans votre image Domino.
+Python >= 3.10
+numpy >= 1.23
+pandas >= 1.5
+Pillow >= 9.0
+PyMuPDF >= 1.23
+openpyxl >= 3.1
+packaging >= 21.0
+torch >= 2.0 (build CUDA validé)
+transformers >= 4.57 (compatibilité effective Qwen local à vérifier)
+accelerate >= 0.30
+psutil >= 5.9
+NVIDIA H100: un GPU visible; mémoire suffisante pour le checkpoint déquantifié BF16
+Pilote NVIDIA et CUDA: versions de l'environnement du notebook
+flock (util-linux), système de fichiers supportant le verrouillage POSIX

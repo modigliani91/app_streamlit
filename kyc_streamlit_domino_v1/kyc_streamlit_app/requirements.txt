@@ -1,0 +1,3 @@
+# Dépendance applicative uniquement. Conserver le runtime GPU validé du notebook.
+# À installer depuis le miroir/wheelhouse interne Domino; jamais au démarrage.
+streamlit>=1.44,<2
